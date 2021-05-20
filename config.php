@@ -2,7 +2,7 @@
 
 	$servername = "localhost:3307";
 	$username = "root";
-	$password = "athsaw$19";
+	$password = "";
 	$dbname = "sparks_bank";
 
 	$conn = mysqli_connect($servername, $username, $password, $dbname);
